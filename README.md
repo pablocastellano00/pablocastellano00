@@ -7,7 +7,7 @@
 - 📖 I'm studying **Front-End Developer** in **Educacion IT / Digitalers**. I also study **self-taught**.
 - 🔎 I'm looking my first job in the **IT world**.
 
-## Contact ☎️ ##
+## How to reach me ☎️ ##
 
 - 📧 pablo.agustin.castellano@gmail.com
 - 🌐 https://www.linkedin.com/in/pablo-castellano/
